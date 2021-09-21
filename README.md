@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mMax92. 
 - 👀 I’m interested in programming, reading, hiking, running and gym.
-- 🌱 I’m currently learning Small Basic, HTML and JavaScript.
+- 🌱 I’m currently learning Small Basic, HTML/CSS and JavaScript.
 - 💞️ I’m looking to collaborate on Front-End Junior/Trainee Developer position.
 - 📫 How to reach me: 
 mob./viber/whatsapp/telegram: +38(063)835-22-67
